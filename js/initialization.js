@@ -70,7 +70,7 @@ function createProduct() {
             id: 8,
             status: 1,
             title: 'Chổi quét tái chế bằng chai nhựa',
-            img: './assets/img/products/xiu_mai_tom_thit_10_vien.jpg',
+            img: './assets/img/products/choi.jfif',
             category: 'Món mặn',
             price: 50000,
             desc: ''
@@ -81,7 +81,7 @@ function createProduct() {
             status: 1,
             title: 'Ghế ngồi tái chế từ sắt vụn bã,lốp xe',
             category: "Nước uống",
-            img: './assets/img/products/choi.jfif',
+            img: './assets/img/products/ghe.jfif',
             price: 1500000,
             desc: ''
         },
@@ -90,7 +90,7 @@ function createProduct() {
             status: 1,
             title: 'Đồng cáp',
             category: "Nước uống",
-            img: './assets/img/products/tra-dao-chanh-sa.jpg',
+            img: './assets/img/products/dongcap.jfif',
             price: 180000,
             desc: ''
         },
@@ -99,7 +99,7 @@ function createProduct() {
             status: 1,
             title: 'Bã sắt',
             category: 'Món tráng miệng',
-            img: './assets/img/products/dongcap.jfif',
+            img: './assets/img/products/basat.jfif',
             price: 6500,
             desc: ''
         },
@@ -134,7 +134,7 @@ function createProduct() {
             id: 15,
             status: 1,
             title: 'Linh kiện điện tử',
-            img: './assets/img/products/set_bun_ca.jpg',
+            img: './assets/img/products/linhkien.jfif',
             category: 'Món mặn',
             price: 347000,
             desc: ''
@@ -143,7 +143,7 @@ function createProduct() {
             id: 16,
             status: 1,
             title: 'Nhựa ABS',
-            img: './assets/img/products/linhkien.jfif',
+            img: './assets/img/products/nhuaabs.jfif',
             category: 'Món mặn',
             price: 30000,
             desc: ''
@@ -152,7 +152,7 @@ function createProduct() {
             id: 17,
             status: 1,
             title: 'Sắt gỉ sét',
-            img: './assets/img/products/bun_ca_hanh_phi.jpeg',
+            img: './assets/img/products/satriset.jfif',
             category: 'Món mặn',
             price: 9500,
             desc: ''
@@ -161,7 +161,7 @@ function createProduct() {
             id: 18,
             status: 1,
             title: 'Sắt vụn',
-            img: './assets/img/products/satriset.jfif',
+            img: './assets/img/products/satvun.jfif',
             category: 'Món mặn',
             price: 8500,
             desc: ''
@@ -179,7 +179,7 @@ function createProduct() {
             id: 20,
             status: 1,
             title: 'Vỏ lon Pepsi',
-            img: './assets/img/products/sot_mam_thai.jpeg',
+            img: './assets/img/products/pessi.jpg',
             category: 'Món mặn',
             price: 36500,
             desc: ''
@@ -189,7 +189,7 @@ function createProduct() {
             status: 1,
             title: 'Nhựa HI',
             category: 'Món mặn',
-            img: './assets/img/products/pessi.jpg',
+            img: './assets/img/products/nhuaHI.jpg',
             price: 43000,
             desc: ''
         },
